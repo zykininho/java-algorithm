@@ -1,4 +1,5 @@
-# Grokking Algorithms
-This repository contains all the main algorithms that you can use in your Java projects. Feel free to use them and add your own!
+# Гроккаем алгоритмы
 
-P.S. New algorithms will be added in the future
+Данный репозиторий включает в себя все основные алгоритмы, которые обычно используются в проектах на Java, такие как "Сортировка пузырьком", "Сортировка выбором" и другие.
+
+P.S. В планах развивать данный репозиторий и добавлять новые алгоритмы и примеры их реализаций на Java
